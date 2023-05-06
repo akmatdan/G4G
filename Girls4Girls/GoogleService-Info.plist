@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDDYcdeDzDnmg8MVQfTElG8ANimqsrt9yI</string>
+	<key>BUNDLE_ID</key>
+	<string>com.danakmat.Girls4Girls</string>
+	<key>CLIENT_ID</key>
+	<string>877433262832-6v8tv5eg7voh702gfpru29a19g2s0ac1.apps.googleusercontent.com</string>
+	<key>GCM_SENDER_ID</key>
+	<string>877433262832</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:877433262832:ios:c7e3bdd6da80ac66e2e835</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>girls4girls-f97b3</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.877433262832-6v8tv5eg7voh702gfpru29a19g2s0ac1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>girls4girls-f97b3.appspot.com</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Mulish-Black.ttf</string>
+		<string>Mulish-Bold.ttf</string>
+		<string>Mulish-Light.ttf</string>
+		<string>Mulish-Medium.ttf</string>
+		<string>Mulish-Regular.ttf</string>
+		<string>Mulish-SemiBold.ttf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array/>
+		</dict>
+	</dict>
+</dict>
+</plist>

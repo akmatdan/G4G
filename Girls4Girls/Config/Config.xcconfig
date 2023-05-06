@@ -1,0 +1,9 @@
+//
+//  Config.swift
+//  Girls4Girls
+//
+//  Created by Daniil Akmatov on 12/3/23.
+//
+
+// MARK: - Prod
+ROOT_HOST = 34.89.133.245

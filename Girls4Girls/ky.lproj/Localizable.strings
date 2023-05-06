@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Girls4Girls
+
+  Created by Daniil Akmatov on 19/4/23.
+  
+*/
+
+"onBoarding-title1" = "Жаңы функциялар жөнүндө билип алыңыз";
+"onBoarding-title2" = "Мыкты насаатчылардын жетекчилиги";
+"onBoarding-title3" = "Видео үйрөткүчтөрдү көрүп, прогрессиңизге көз салыңыз";
+"onBoarding-skip" = "Кийинки";
